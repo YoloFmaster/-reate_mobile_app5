@@ -1,7 +1,7 @@
 import kotlin.math.*
 
 class Point(val x: Double, val y: Double) {
-    // Рассточние от это 1 точки до заданной
+    // Рассточние от это первой точки до заданной
     fun distanceTo(other: Point): Double {
         val dx = x - other.x
         val dy = y - other.y
@@ -11,7 +11,9 @@ class Point(val x: Double, val y: Double) {
 
 class Triangle() {
     fun calculateTriangleArea(a: Double, b: Double, c: Double): Double {
+        //полупериметр
         val p = (a + b + c)/2
+        //площадь
         val area = sqrt(p * (p - a) * (p - b) * (p - c))
         val r = (a * b * c)/(4 * area)
         return abs(r)
@@ -19,6 +21,7 @@ class Triangle() {
 }
 
 class Circle(){
+    //это уравние прямых, проходящих через середины отрезков, в алгебраической форме
     fun centerOfCircle(a: Point, b: Point, c: Point){
         val A = b.x - a.x
         val B = b.y - a.y

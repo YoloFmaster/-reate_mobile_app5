@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="628c648d-5d14-455d-8feb-8283b690c1cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task4.iml" afterDir="false" />
+    <list default="true" id="628c648d-5d14-455d-8feb-8283b690c1cc" name="Changes" comment="Тема 5 задание 4">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/triangle.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/triangle.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,11 +66,34 @@
       <updated>1697363472149</updated>
       <workItem from="1697363473166" duration="11520000" />
       <workItem from="1697392874560" duration="7601000" />
-      <workItem from="1697437123227" duration="923000" />
+      <workItem from="1697437123227" duration="1849000" />
+      <workItem from="1697444326972" duration="601000" />
+      <workItem from="1697469597128" duration="381000" />
     </task>
+    <task id="LOCAL-00001" summary="Тема 5 задание 4">
+      <option name="closed" value="true" />
+      <created>1697441636303</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697441636303</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Тема 5 задание 4">
+      <option name="closed" value="true" />
+      <created>1697441644464</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697441644464</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Тема 5 задание 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Тема 5 задание 4" />
   </component>
 </project>

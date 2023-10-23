@@ -9,8 +9,8 @@ class Point(val x: Double, val y: Double) {
     }
 }
 
-class Triangle{
-    fun calculateTriangleArea(a: Double, b: Double, c: Double): Double {
+class Triangle(val z: Double, val x: Double,val y: Double){
+    fun calculateTriangleArea(a: Double = z, b: Double = x, c: Double = y): Double {
         //полупериметр
         val p = (a + b + c)/2
         //площадь

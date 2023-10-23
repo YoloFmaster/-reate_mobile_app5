@@ -8,11 +8,9 @@
       <change afterPath="$PROJECT_DIR$/src/test/kotlin/CircleTest.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/kotlin/PointTest.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/kotlin/TriangleTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/TriangleTest9.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/triangle.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/triangle.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/task4.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,11 +28,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;YoloFmaster&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="a68e517d-6cd2-4719-8151-1ef50d3a6f8b" />
+        <option name="url" value="https://github.com/YoloFmaster/-reate_mobile_app5.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/main/kotlin/Main.kt" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -78,7 +90,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CircleTest">
+  <component name="RunManager" selected="JUnit.PointTest.distanceTo">
     <configuration name="CircleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="task4" />
       <option name="PACKAGE_NAME" value="" />
@@ -129,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PointTest" />
+        <item itemvalue="JUnit.PointTest.distanceTo" />
         <item itemvalue="JUnit.CircleTest" />
+        <item itemvalue="JUnit.PointTest" />
         <item itemvalue="JUnit.TriangleTest.calculateTriangleArea" />
         <item itemvalue="JUnit.CircleTest.centerOfCircle" />
-        <item itemvalue="JUnit.PointTest.distanceTo" />
       </list>
     </recent_temporary>
   </component>
@@ -160,6 +172,8 @@
       <workItem from="1697882291406" duration="1023000" />
       <workItem from="1697883617485" duration="24000" />
       <workItem from="1697887251618" duration="88000" />
+      <workItem from="1697997350800" duration="912000" />
+      <workItem from="1698088302620" duration="2568000" />
     </task>
     <task id="LOCAL-00001" summary="Тема 5 задание 4">
       <option name="closed" value="true" />
@@ -185,7 +199,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697470124362</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Новые комментарии">
+      <option name="closed" value="true" />
+      <created>1697997613426</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697997613426</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,5 +228,15 @@
     <MESSAGE value="Тема 5 задание 4" />
     <MESSAGE value="Новые комментарии" />
     <option name="LAST_COMMIT_MESSAGE" value="Новые комментарии" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StackOverflowError" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
